@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Chat & Play</title>
+<style>
+body { background-color: black; color: white; font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { text-align: center; padding: 20px; background-color: #333; }
+.hero { background-color: #222; padding: 40px; text-align: center; }
+.content { margin: 20px; padding: 20px; }
+.button { background-color: white; color: black; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+.footer { text-align: center; padding: 10px; color: #ccc; background-color: #333; }
+.game-section { background-color: #222; padding: 20px; margin: 20px; border-radius: 5px; }
+.rules-section { background-color: #333; padding: 20px; margin: 20px; border-radius: 5px; }
+ul { list-style-type: none; padding: 0; }
+li { margin: 10px 0; }
+</style>
+</head>
+<body>
+<header>
+<h1>Chat & Play</h1>
+<p>A Fun Community for Friendly Chats and Games – Brought to You by Chat & Play, a Subsidiary of Kedoku</p>
+</header>
+<div class="hero">
+<h2>Welcome to Your Playful Hub!</h2>
+<p>Connect with friends, chat about hobbies, and enjoy exciting games in a safe, positive space.</p>
+<a href="#signup" class="button">Join Free Now!</a>
+</div>
+<div class="content">
+<h3>Why Join Chat & Play?</h3>
+<ul>
+<li>Be Friendly: Share ideas and make connections in a welcoming environment.</li>
+<li>Discover Fun: Find people with similar interests in games and casual talks.</li>
+<li>Safe Community: A positive spot for everyone to enjoy without worries.</li>
+</ul>
+<h3>Basic Mode (Free - View Only):</h3>
+<ul>
+<li>Browse profiles and see who's online.</li>
+<li>Read forums for tips and discussions.</li>
+<li>Watch ongoing Masterloo games or check leaderboards.</li>
+</ul>
+<h3>Advanced Mode (Unlock with Code):</h3>
+<ul>
+<li>Chat instantly with others and send friendly greetings.</li>
+<li>Post and engage in forums.</li>
+<li>Create/edit your bio and full profile.</li>
+<li>Access fun play features like quizzes, games, and Masterloo duels.</li>
+</ul>
+<p>To unlock Advanced Mode, send payment via CashApp to $zidane13, and we'll email you a unique code to enter in your account settings. One-time unlock for full access!</p>
+</div>
+<div class="game-section">
+<h3>Play Masterloo!</h3>
+<p>A exciting 4-player card game: Draw 3 cards from a shuffled standard 52-card deck, place them in slots 1-3, and compete in high-card duels. Matchmake with others, chat during games, and aim for the top of the leaderboards!</p>
+<p>Prizes: Active players may occasionally receive fun rewards like badges or profile highlights. Donations via CashApp enter you into special prize draws for extras like custom icons.</p>
+<a href="#demo" class="button">Try a Solo Demo</a> <!-- Link to JS-based demo could be added here -->
+</div>
+<div class="rules-section">
+<h3>Community Rules</h3>
+<p>We keep things sharp and PG! All content must be family-friendly. We strictly block and ban for any adult, illegal, or problematic content, including:</p>
+<ul>
+<li>Offensive language or harassment.</li>
+<li>Illegal activities or promotions.</li>
+<li>Adult themes or inappropriate discussions.</li>
+<li>Any infractions result in immediate bans – no warnings!</li>
+</ul>
+<p>Moderated by Chat & Play team for a safe experience.</p>
+</div>
+<footer>
+<p>&copy; 2025 Chat & Play, a Subsidiary of Kedoku | Privacy Policy | Terms of Service | Contact Us</p>
+</footer>
+</body>
+</html>
